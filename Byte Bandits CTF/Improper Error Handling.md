@@ -17,4 +17,4 @@ I typed in a random length password and sent the request to the repeater in burp
 I adjusted the password length accordingly and received the flag.
 
 
-![Alt text](Images/error1.png)
+![Alt text](Images/Picture24.png)
