@@ -4,7 +4,7 @@
 __________________________
 
 
-Because this challenge is a revere engineering problem, I began by opening the given file with Binary Ninja and examined the code. 
+Because this challenge is a reverse engineering problem, I began by opening the given file with Binary Ninja and examined the code. 
 
 In Binary Ninja, it is clear that the program takes in a number, checks if it is in a certain range, then performs operations using that number. 
 
